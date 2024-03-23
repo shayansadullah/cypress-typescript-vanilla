@@ -1,4 +1,5 @@
 # Step 1: Initialize a new npm project
+```bash
 npm init -y
 
 # Step 2: Install Cypress and TypeScript as dev dependencies
